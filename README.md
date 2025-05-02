@@ -2,13 +2,14 @@
 📍 Thakurli, Maharashtra | 📊 Aspiring Data Analyst |
 
 💡 Passionate about Data Analytics, Data Science, and Business Intelligence
+
 🔍 Exploring SQL, Python, Power BI, Tableau & Excel to extract meaningful insights from data
 
 # 🚀 About Me
 
-🎓 Bachelor of Commerce | University of Mumbai (2025)
+🎓 Bachelor of Commerce | University of Mumbai (2024)
 
-📚 Currently Pursuing: Masters in Data Science & AI (IT Vedant Education, 2024 – Present)
+📚 Masters in Data Science & AI (IT Vedant Education, 2024 – Present)
 
 🔎 Driven by curiosity & problem-solving, I love turning raw data into actionable insights!
 
